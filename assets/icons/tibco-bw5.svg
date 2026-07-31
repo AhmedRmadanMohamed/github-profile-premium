@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="TIBCO BW5">
+  <rect width="48" height="48" rx="10" fill="#242938"/>
+  <rect x="1" y="1" width="46" height="46" rx="9" fill="none" stroke="#374151"/>
+  <rect x="8" y="7" width="32" height="4" rx="2" fill="#FF6D00"/>
+  <circle cx="24" cy="27" r="13" fill="#FF6D00" opacity="0.96"/>
+  <text x="24" y="31" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="17" font-weight="700" fill="#F8FAFC">BW5</text>
+</svg>
